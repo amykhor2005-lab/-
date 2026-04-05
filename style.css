@@ -1,0 +1,40 @@
+body{
+	font-family:Simsun;
+}
+
+td{
+	text-align:center;
+	
+}
+
+img {
+	height:150px;
+	width:150px;
+	object-fit:cover;
+}
+
+.btn {
+	background-color:pink;
+	font-family:Simsun;
+	border: none;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 2px 2px;
+	cursor: pointer;
+	border-radius: 15px;
+}
+a:link ,a:visited{
+		color:black;
+		padding:5px 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 15px;
+}
+a:hover,a:active{
+	background-color:lavender;
+	text-decoration:underline;
+}
